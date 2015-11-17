@@ -1,0 +1,16 @@
+﻿#footer {
+    margin-top: 5pt;
+    color: #888;
+}
+
+@media (min-width: 980px) {
+    body {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+}
+
+/* adjust path for Bootstrap icons */
+[class^="icon-"], [class*=" icon-"] {
+    background-image: url("/Content/images/glyphicons-halflings.png");
+}
