@@ -1,5 +1,4 @@
 # BootstrapWebsiteDemo
-
 This example is to demonstrate a simple website deployment using [Release Management](https://www.visualstudio.com/features/release-management-vs)
 
 
